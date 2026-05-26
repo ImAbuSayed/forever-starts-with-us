@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/forever-starts-with-us/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Forever Starts With Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/forever-starts-with-us/) |
+| **Get License** | [Get License For Forever Starts With Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/forever-starts-with-us/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5f041213e5beb428f190e469fe46fa844d24807dc657f39a21798f9802d1b431` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
