@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/forever-starts-with-us/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Forever Starts With Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/forever-starts-with-us/) |
+| **Get License** | [Obtain a Music License for Forever Starts With Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/forever-starts-with-us/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I see the midnight melting in your eyes
+> A million stars could never shine this bright
+> Just pull me closer, let the shadows fall
+> Right here with you, I know I have it all
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
